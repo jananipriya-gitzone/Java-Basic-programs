@@ -1,5 +1,5 @@
 //Check character is uppercase or lowercase in Java
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class java16 {
     public static void main(String[] args) {

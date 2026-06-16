@@ -1,5 +1,5 @@
 // Print number of days for a given month in Java
-package ifelse;
+package ifelseprogram;
 
 import java.util.Scanner;
 

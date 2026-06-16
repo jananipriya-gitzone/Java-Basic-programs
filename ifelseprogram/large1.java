@@ -1,5 +1,5 @@
 //Java program to print largest/maximum using if…else
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class large1 {
     public static void main(String[] args) {

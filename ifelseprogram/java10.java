@@ -1,5 +1,5 @@
 //Java Program to check a given input is alphabet or not
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class java10 {
     public static void main(String[] args) {

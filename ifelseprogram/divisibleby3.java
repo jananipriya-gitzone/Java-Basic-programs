@@ -1,5 +1,5 @@
 //Java Program to check given number is divisible by 3
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class divisibleby3 {
     public static void main(String[] args) {

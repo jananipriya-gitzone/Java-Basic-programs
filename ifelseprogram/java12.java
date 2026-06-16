@@ -1,5 +1,5 @@
 //Java Program to check number is positive or negative
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class java12 {
     public static void main(String[] args) {

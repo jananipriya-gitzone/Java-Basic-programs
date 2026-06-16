@@ -1,5 +1,5 @@
 //Find largest/maximum using user-defined function
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class large3 {
     public static int LargegTwo(int a, int b) {

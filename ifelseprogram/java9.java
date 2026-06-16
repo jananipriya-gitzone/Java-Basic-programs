@@ -1,6 +1,6 @@
 //Java Program to Check Given Input is Digit or Not
 
-package ifelse;
+package ifelseprogram;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 //Find largest/maximum using Math.max()
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class large2 {
     public static void main(String[] args) {

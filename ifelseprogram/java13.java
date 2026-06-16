@@ -1,6 +1,6 @@
 //Celsius to Fahrenheit conversion program in Java (celsius * 9/5) + 32
 
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class java13 {
     public static void main(String[] args) {

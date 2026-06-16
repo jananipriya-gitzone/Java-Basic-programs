@@ -1,5 +1,5 @@
 //"Check if a number is divisible by 5 and 11"
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 
 public class divisible {

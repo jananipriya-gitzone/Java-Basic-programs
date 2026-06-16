@@ -1,6 +1,6 @@
 //Fahrenheit to Celsius Conversion Program in Java    ((Fahrenheit-32)*5)/9
 
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class java14 {
     public static void main(String[] args) {

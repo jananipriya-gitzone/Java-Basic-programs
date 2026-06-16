@@ -1,5 +1,5 @@
 //Java Program to check input is Digit or Alphabets or Special Character
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class java11 {
     public static void main(String[] args) {

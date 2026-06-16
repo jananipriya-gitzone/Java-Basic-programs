@@ -1,4 +1,4 @@
-package ifelse;
+package ifelseprogram;
 
 import java.util.Scanner;
 

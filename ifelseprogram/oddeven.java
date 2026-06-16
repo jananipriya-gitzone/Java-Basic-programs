@@ -1,4 +1,4 @@
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class oddeven {
     public static void main(String[] args) {

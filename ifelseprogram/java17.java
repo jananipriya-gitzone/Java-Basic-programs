@@ -1,5 +1,5 @@
 //Java Program to print week day for a given input week
-package ifelse;
+package ifelseprogram;
 import java.util.Scanner;
 public class java17 {
     public static void main(String[] args) {
